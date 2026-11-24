@@ -33,14 +33,6 @@ My research interests include:
 - **Research Intern**, Shanghai AI Lab, June 2023 – December 2023
   - Advisor: Prof. Yu Cheng
 
-## Skills
-
-- Natural Language Processing
-- Machine Learning
-- LLM Reasoning and Reinforcement Learning
-- Hallucination in Vision-Language Models (VLM)
-- LLM Truthfulness and Interpretability
-
 ## Publications
 
 ### First-author publications
@@ -63,6 +55,14 @@ My research interests include:
   - Authors: Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He
 - **Composing Parameter-Efficient Modules with Arithmetic Operations**, NeurIPS 2023 (Co-author).
   - Authors: Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He
+
+## Skills
+
+- Natural Language Processing
+- Machine Learning
+- LLM Reasoning and Reinforcement Learning
+- Hallucination in Vision-Language Models (VLM)
+- LLM Truthfulness and Interpretability
 
 ## Contact Information
 
